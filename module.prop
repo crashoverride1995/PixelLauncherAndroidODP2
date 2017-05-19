@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=PixelLauncher
+name=Pixel Launcher
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=crashoverride1995
+description=Android O DP2 Pixel Launcher
 template=3
